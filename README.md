@@ -1,1 +1,1 @@
-# neetcode-150-patterns
+# NeetCode 150 Pattern-Based DSA
